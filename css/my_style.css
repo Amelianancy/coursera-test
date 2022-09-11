@@ -25,6 +25,7 @@
     .col-lg-4 {
       float: left;
       width: 29%;
+      height: 300px;
       background-color: beige; 
       position: relative;
       border: solid black;
